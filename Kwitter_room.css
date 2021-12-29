@@ -1,0 +1,13 @@
+body{
+    background-color: lightsalmon;
+}
+
+#room_name{
+    width : 300px;
+}
+
+center{
+    background-color: lightseagreen;
+    color : white;
+    border-radius: 20px;
+}
